@@ -8,7 +8,7 @@
 ### Tools used
 <p> I have used pandas, numPy and seaborn for the visualization of the data and Jupyter notebooks as IDE.</p>
 
-### How to run the program
+## How to run the program
 <p> Git clone the project into your local. Make sure you have installed Anaconda and Python into your local machine. Also make sure you have Data required for analysis. Launch Jupyter from the anaconda navigator. Open the file (with extension .ipynb) using Jupyter and run the cells one after the other. </p> 
 
   
